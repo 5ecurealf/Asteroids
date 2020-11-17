@@ -1,0 +1,7 @@
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/SDL2-static.dir
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/SDL2main.dir
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/INSTALL.dir
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/SDL2.dir
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/uninstall.dir
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/ALL_BUILD.dir
+C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/CMakeFiles/ZERO_CHECK.dir

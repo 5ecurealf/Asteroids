@@ -1,0 +1,10 @@
+^C:\USERS\KIRST\DOWNLOADS\AMAZONCODINGEXERCISE\THIRDPARTY\SDL\BUILD\WIN\CMAKEFILES\21FFB4B6A8130FC2D87B32E0C466CE25\GENERATE.STAMP.RULE
+setlocal
+C:\Users\kirst\Downloads\AmazonCodingExercise\thirdparty\cmake\win\bin\cmake.exe -SC:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl -BC:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/kirst/Downloads/AmazonCodingExercise/thirdparty/sdl/build/win/SDL2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
